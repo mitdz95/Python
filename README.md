@@ -1,2 +1,2 @@
 # Python_Pratice
-2016 NBA Finals Clutch Time Simulator
+My repository for python codes on random projects
