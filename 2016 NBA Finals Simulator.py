@@ -30,7 +30,8 @@ print('''
 ''')
 print("Welcome to 2016 NBA Finals Clutch Time Simulator.\n")
 print("Your mission is to make the game winning plays to win the Championship.\n") 
-
+print("Only answer with number or texts with first letter capitalized")
+    
 #https://shorturl.at/fvJU1
 
 #Write your code below this line 👇
